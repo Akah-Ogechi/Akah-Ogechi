@@ -16,19 +16,23 @@ I'm currently strengthening my foundations in programming, backend engineering, 
 - Interested in understanding how technology works beyond the surface.
 - Always exploring, learning, and building.
 
+
 ### Tech Stack & Tools
 
-**Languages**
-- Python
-- JavaScript
-- HTML
-- CSS
+**Programming Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Frameworks & Databases**
-- FastAPI
-- SQLite
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 **Developer Tools**
+
 - Git
 - GitHub
 - Visual Studio Code
